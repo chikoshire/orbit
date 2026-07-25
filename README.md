@@ -8,6 +8,17 @@ Orbit turns fragmented tools, spreadsheets, and WhatsApp groups into one coheren
 
 ---
 
+
+## Marketing & public surfaces
+
+| Surface | URL |
+| --- | --- |
+| **Orbit product** | [myorbit.dev](https://myorbit.dev) |
+| **TUXX studio** | [tuxxagency.com](https://tuxxagency.com) |
+| **Mustard Seed Group** | [mustardseed.group](https://mustardseed.group) |
+| **Benediction Lab (Orion research)** | [benedictionlab.com](https://benedictionlab.com) |
+| **Founder** | [chikoshire.com](https://chikoshire.com) |
+
 ## Why Orbit exists
 
 Most companies do not have a software problem. They have an **operating system problem**.

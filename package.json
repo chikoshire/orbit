@@ -1,0 +1,14 @@
+{
+  "name": "orbit-client-customer-contacts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:acceptance": "vitest run --config vitest.acceptance.config.ts",
+    "lint:migration": "node scripts/verify-migration-isolation.mjs"
+  },
+  "devDependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "vitest": "^3.0.5"
+  }
+}
